@@ -305,6 +305,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "polling-model"
+version = "0.1.0"
+dependencies = [
+ "futures 0.1.28 (registry+https://github.com/rust-lang/crates.io-index)",
+ "tokio 0.1.22 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
 name = "processing-inbound-sockets"
 version = "0.1.0"
 dependencies = [
