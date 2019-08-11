@@ -1,0 +1,13 @@
+[workspace]
+
+members = [
+    "fibonacci",
+    "spawning",
+    "communicating-with-tasks",
+    "processing-inbound-sockets",
+    "background-processing",
+    "coordinating-access-to-a-resource",
+    "an-example-server",
+    "working-with-i-o-futures",
+    "transports",
+]
