@@ -11,4 +11,5 @@ members = [
     "working-with-i-o-futures",
     "transports",
     "reading-data-with-asyncread",
+    "a-more-complicated-future",
 ]
