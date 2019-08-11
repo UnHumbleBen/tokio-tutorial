@@ -12,4 +12,6 @@ members = [
     "transports",
     "reading-data-with-asyncread",
     "a-more-complicated-future",
+    "tasks",
+    "task-notification",
 ]
