@@ -85,7 +85,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn it_works() -> Result<(), std::io::Error> {
+    fn encodes_and_decodes_lines() -> Result<(), std::io::Error> {
         let mut transport = LinesCodec;
         let mut buf = BytesMut::new();
         let lines = "This is one line\nThis is another line\nThis is the final one".to_string();
