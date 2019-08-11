@@ -10,4 +10,5 @@ members = [
     "an-example-server",
     "working-with-i-o-futures",
     "transports",
+    "reading-data-with-asyncread",
 ]

@@ -409,6 +409,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "reading-data-with-asyncread"
+version = "0.1.0"
+dependencies = [
+ "futures 0.1.28 (registry+https://github.com/rust-lang/crates.io-index)",
+ "tokio 0.1.22 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
 name = "rustc_version"
 version = "0.2.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
