@@ -18,4 +18,8 @@ members = [
     "using-the-future-api",
     "using-the-poll-api",
     "line-chat",
+    "running-code-after-a-period-of-time",
+    "timing-out-a-long-running-operation",
+    "running-code-on-an-interval",
+    "working-with-framed-streams",
 ]
