@@ -15,4 +15,5 @@ members = [
     "tasks",
     "task-notification",
     "polling-model",
+    "using-the-future-api",
 ]
