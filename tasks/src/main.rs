@@ -18,6 +18,7 @@ fn cache_get(uri: &str) -> impl Future<Item = Option<String>, Error = Error> {
 }
 
 fn cache_put(uri: &str, val: String) -> impl Future<Item = (), Error = Error> {
+    println!("Putting val = {} for uri = {}", val, uri);
     future::ok(())
 }
 
