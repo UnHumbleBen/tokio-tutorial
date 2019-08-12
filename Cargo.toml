@@ -17,4 +17,5 @@ members = [
     "polling-model",
     "using-the-future-api",
     "using-the-poll-api",
+    "line-chat",
 ]
